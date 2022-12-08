@@ -1,0 +1,3 @@
+# static
+
+For static files.
